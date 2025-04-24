@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444831976411",
+    "project_id": "donation-app-cbc2b",
+    "storage_bucket": "donation-app-cbc2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444831976411:android:34517d0c203613443a35fe",
+        "android_client_info": {
+          "package_name": "com.example.donationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbGpG4Fcn5ty3xDYrJZhkJ6UvwyYw0lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
