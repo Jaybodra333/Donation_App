@@ -21,16 +21,28 @@
 
 <table>
   <tr>
-    <td>Login Screen</td>
-    <td>Dashboard</td>
-    <td>Donation Campaign</td>
-    <td>Analytics</td>
+    <td>Login Page</td>
+    <td>Donor Dashboard</td>
+    <td>NGO List</td>
+    <td>Donation Creation</td>
   </tr>
   <tr>
-    <td><img src="screenshots/login.jpg" width="200"/></td>
-    <td><img src="screenshots/dashboard.jpg" width="200"/></td>
-    <td><img src="screenshots/campaign.jpg" width="200"/></td>
-    <td><img src="screenshots/analytics.jpg" width="200"/></td>
+    <td><img src="screenshots/Login Page.jpg" width="200"/></td>
+    <td><img src="screenshots/Donor Dashboard.jpg" width="200"/></td>
+    <td><img src="screenshots/NGO List.jpg" width="200"/></td>
+    <td><img src="screenshots/Donation Creation.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td>Donation Management</td>
+    <td>Donation History</td>
+    <td>NGO Dashboard</td>
+    <td>Analytics Dashboard</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Donation Mangement.jpg" width="200"/></td>
+    <td><img src="screenshots/Donation History.jpg" width="200"/></td>
+    <td><img src="screenshots/NGO dashboard.jpg" width="200"/></td>
+    <td><img src="screenshots/Analytics dashboard.jpg" width="200"/></td>
   </tr>
 </table>
 
@@ -46,7 +58,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/DonationApp.git
+git clone https://github.com/Jaybodra333/DonationApp.git
 ```
 
 2. Install dependencies
@@ -94,13 +106,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 👥 Authors
 
-- **Your Name** - [YourGithub](https://github.com/yourusername)
+- **Jay Bodra** - [Github](https://github.com/Jaybodra333)
 
 ## 🙏 Acknowledgments
 
